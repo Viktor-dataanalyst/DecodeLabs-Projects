@@ -25,4 +25,14 @@ Explore data, identify patterns, uncover potential issues, and extract insights 
 
 ### 𝕸𝖞 𝖇𝖎𝖌𝖌𝖊𝖘𝖙 𝖙𝖆𝖐𝖊𝖆𝖜𝖆𝖞: 
 Data analysis goes beyond cleaning datasets, calculating figures, and creating charts. The real value lies in understanding what the numbers are telling us.
+
+## 📊 Project 3 - Exploratory Data Analysis -SQL
+
+![Project 3 SQL1](images/LoadData.png)
+
+### 𝕿𝖍𝖊 𝖌𝖔𝖆𝖑:
+Explore data, identify patterns, uncover potential issues, and extract insights that could support better business decisions using SQL
+
+### 𝕸𝖞 𝖇𝖎𝖌𝖌𝖊𝖘𝖙 𝖙𝖆𝖐𝖊𝖆𝖜𝖆𝖞: 
+This project strengthened my SQL skills and showed me how structured queries can turn raw data into meaningful insights.
  
